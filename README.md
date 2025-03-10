@@ -4,7 +4,7 @@
 <a><img src='https://i.ibb.co/6L5dngD/748f7ae587e5.jpg'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
-  <a href="https://github.com/smilo222"><img title="Developer" src="https://img.shields.io/badge/Author-Mr%20Jay-FF7604.svg?style=big-square&logo=github" /></a>
+  <a href="https://github.com/Whatappl"><img title="Developer" src="https://img.shields.io/badge/Author-Mr%20Jay-FF7604.svg?style=big-square&logo=github" /></a>
 </p>
 
 <div align="center">
@@ -16,7 +16,7 @@
 
 
 <p align="center">
-<a href="https://github.com/smilo222/Queen-Smiley"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
+<a href="https://github.com/Whatappl/QUEEN-SMILEY_MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
   <img src="https://komarev.com/ghpvc/?username=smileyofc&label=VIEWS&style=square&color=blue" />
 </p>
 </p> 
@@ -32,7 +32,7 @@
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-  <a href="https://github.com/smilo222/Queen-Smiley"><img title="QUEEN-SMILEY-MD" src="https://img.shields.io/badge/FORK-SMILEY,MD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/Whatappl/QUEEN-SMILEY_MD"><img title="QUEEN-SMILEY-MD" src="https://img.shields.io/badge/FORK-SMILEY,MD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
   
 ### 2. Get Session ID 
 
@@ -40,7 +40,7 @@ You will need a session ID to run the SMILEY=MD. Click the button below to obtai
 
 > **Get Pair Code (Session ID)**
 
-<a href='https://jay-session-2.onrender.com' target="_blank">
+<a href='https://jay-session.onrender.com' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-0076D2?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
@@ -58,13 +58,13 @@ You can deploy this bot for free on the following platforms:
 ---
 
 ###  Koyeb
-[![Deploy to Koyeb](https://img.shields.io/badge/Deploy%20to%20Koyeb-orange?style=for-the-badge&logo=koyeb&logoColor=white)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/smilo222/Queen-Smiley)
+[![Deploy to Koyeb](https://img.shields.io/badge/Deploy%20to%20Koyeb-orange?style=for-the-badge&logo=koyeb&logoColor=white)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/Whatappl/QUEEN-SMILEY_MD)
 
 ---
 
 
 ###  Render
-[![Deploy to Render](https://img.shields.io/badge/Deploy%20to%20Render-green?style=for-the-badge&logo=render&logoColor=white)](https://dashboard.render.com/deploy/srv-cjjm8m9k9qfdl8c2fnb0?repo=https://github.com/smilo222/Queen-Smiley)
+[![Deploy to Render](https://img.shields.io/badge/Deploy%20to%20Render-green?style=for-the-badge&logo=render&logoColor=white)](https://dashboard.render.com/deploy/srv-cjjm8m9k9qfdl8c2fnb0?repo=https://github.com/Whatappl/QUEEN-SMILEY_MD)
 
 ---
 
@@ -117,17 +117,17 @@ jobs:
 
 ---
 
- ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/smilo222/Queen-Smiley&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
+ ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Whatappl/QUEEN-SMILEY_MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 
-![Docker Size](https://img.shields.io/docker/image-size/smilo222/Queen-Smiley?style=flat&logo=docker&label=Docker+Size)
-![Docker Pulls](https://img.shields.io/docker/pulls/smilo222/Queen-Smiley?style=flat&logo=docker&label=Docker+Pulls)
+![Docker Size](https://img.shields.io/docker/image-size/Whatappl/QUEEN-SMILEY_MD?style=flat&logo=docker&label=Docker+Size)
+![Docker Pulls](https://img.shields.io/docker/pulls/Whatappl/QUEEN-SMILEY_MD?style=flat&logo=docker&label=Docker+Pulls)
 
 ![forks](https://img.shields.io/github/forks/smilo222/Queen-Smiley?label=Forks&style=social)
-![stars](https://img.shields.io/github/stars/smilo222/Queen-Smiley?style=social)
+![stars](https://img.shields.io/github/stars/Whatappl/QUEEN-SMILEY_MD?style=social)
 
 ![size](https://img.shields.io/github/repo-size/lakaofc/laka-md?color=purple&label=Repo%20Size&style=plastic)
-![license](https://img.shields.io/github/license/lakaofc/laka-md?color=purple&label=License&style=plastic)
-![developer](https://img.shields.io/static/v1?label=Author&message=Laka%20ofc&color=purple&style=plastic)
+![license](https://img.shields.io/github/license/Whatappl/QUEEN-SMILEY_MD?color=purple&label=License&style=plastic)
+![developer](https://img.shields.io/static/v1?label=Author&message=Whatappl&color=purple&style=plastic)
 ----
 ## Tutorial 
 [![Tutorial](https://img.shields.io/badge/Join-Tutorial-25D366?style=for-the-badge&logo=whatsapp)](not yet out)
