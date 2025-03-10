@@ -1,0 +1,23 @@
+{
+  "name": "QUEEN-SMILEY_MD",
+  "description": "QUEEN-SMILEY_MD in powerful WhatsApp Bot ON WHATSAPP ✅",
+  "logo": "https://i.ibb.co/6L5dngD/748f7ae587e5.jpg",
+  "keywords": ["smileymd", "bot", "whatsapp bot", "multi device", "QUEEN-SMILEY_MD"],
+  "success_url": "/",
+
+  "env": {
+    "SESSION_ID": {
+            "description": "Type the Session-ID you got from scaning QR",
+            "required": true,
+            "value": "put session id here"
+        }
+    },
+         "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+     ],
+  "stack": "heroku-24"
+  
+  
+}
