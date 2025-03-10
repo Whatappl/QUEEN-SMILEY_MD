@@ -52,6 +52,10 @@ You will need a session ID to run the SMILEY=MD. Click the button below to obtai
 You can deploy this bot for free on the following platforms:
 
 ---
+###  Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Whatappl/QUEEN-SMILEY_MD)
+
+---
 
 ###  Koyeb
 [![Deploy to Koyeb](https://img.shields.io/badge/Deploy%20to%20Koyeb-orange?style=for-the-badge&logo=koyeb&logoColor=white)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/smilo222/Queen-Smiley)
@@ -62,8 +66,6 @@ You can deploy this bot for free on the following platforms:
 ###  Render
 [![Deploy to Render](https://img.shields.io/badge/Deploy%20to%20Render-green?style=for-the-badge&logo=render&logoColor=white)](https://dashboard.render.com/deploy/srv-cjjm8m9k9qfdl8c2fnb0?repo=https://github.com/smilo222/Queen-Smiley)
 
----
-###  SMILEY MD CAN BE DEPLOYED ON PANEL ✅
 ---
 
 
