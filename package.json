@@ -4,7 +4,7 @@
   "description": "A WhatsApp bot created using Node.js",
   "main": "smiley.js",
   "scripts": {
-    "start": "pm2 start smiley.js --deep-monitoring --attach --name QUEEN-SMILEY_MD",
+    "start": "pm2 start start.js --deep-monitoring --attach --name QUEEN-SMILEY_MD",
     "stop": "pm2 stop QUEEN-SMILEY_MD",
     "restart": "pm2 restart QUEEN-SMILEY_MD"
   },
